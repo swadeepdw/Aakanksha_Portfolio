@@ -14,7 +14,6 @@ const contactDetails = [
     text: "aakanksharanjan2@gmail.com",
     link: "mailto:aakanksharanjan2@gmail.com",
   },
-  //   { icon: <FaPhone />, text: "+123 456 7890" },
   {
     icon: <FaMapMarkerAlt />,
     text: "Bangalore, India",
