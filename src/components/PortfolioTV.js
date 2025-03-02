@@ -6,8 +6,8 @@ const projects = [
   "UX Research",
   "Dark Mode UI",
   "3D Design",
-  "AI Dashboard",
-  "Mobile UI",
+  "AII Dashboard",
+  "New Mobile UI",
 ];
 
 const PortfolioTV = () => {
